@@ -1,2 +1,2 @@
-# coq-extraction-lwt-ocaml
+# Extraction Lwt OCaml
 Interface to the native OCaml Lwt library.

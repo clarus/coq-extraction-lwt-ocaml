@@ -1,0 +1,4 @@
+description = "Interface to the native OCaml Lwt library."
+archive(byte) = "extractionLwt.cma"
+archive(native) = "extractionLwt.cmxa"
+requires = "lwt lwt.unix num"
